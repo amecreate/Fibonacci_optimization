@@ -8,4 +8,6 @@ Optimization of Exponentiation
 
 As well as handling negative Fibonacci numbers.
 
+The optimized script can calculate up to a million numbers.
+
 
